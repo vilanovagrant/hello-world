@@ -1,3 +1,3 @@
 # hello-world
 repository
-Love cats, coffee and chocolate!
+Love cats and coffee!
